@@ -29,7 +29,7 @@ This way we could model the relation of the sub-area with the price without over
 
 🚀 Model Enhancement: We analyzed the results of our XGBOOST models  to better understand them. We understood that the data related to  OwnerOcuppier properties is easier to model which led us to wisely choose hyperparameters for each model without using any tuning algorithm. We also came up with an idea to ensemble XGBOOST models for each product type and ended up having 3 models for OwnerOcuppier and 5 models for Investment. After getting the predictions for each model we calculated the median of the predictions and multiplied it by a “magic number” to normalize our prices as we understood that we might predict higher than the actual prices.
 
-I hope you find our work fascinating and I look forward to hearing your feedback!
+I hope you find our work fascinating!
 
 
  
