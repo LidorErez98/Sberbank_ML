@@ -1,6 +1,6 @@
-# 🏠 Moscow Housing Price Prediction — Sberbank Dataset (Course Project)
+#  Moscow Housing Price Prediction — Sberbank Dataset (Course Project)
 
-## 📌 Summary
+## Summary
 
 This project was completed as part of a university machine learning course. We used the **Sberbank Russian Housing Market** dataset to predict apartment sale prices in Moscow between 2011 and 2016.  
 
@@ -8,7 +8,7 @@ Our model achieved a **score equivalent to the actual 5th place solution** on th
 
 ---
 
-## 🧠 We used this opportunity to:
+##  We used this opportunity to:
 
 - Clean and structure real-world tabular data
 - Perform exploratory data analysis to understand pricing patterns
@@ -19,7 +19,7 @@ Our model achieved a **score equivalent to the actual 5th place solution** on th
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python  
 - Jupyter Notebooks  
@@ -30,7 +30,7 @@ Our model achieved a **score equivalent to the actual 5th place solution** on th
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 /Data                  → Raw and cleaned CSV files
 /Word Documents        → Report and documentation
@@ -44,7 +44,7 @@ README.md              → This file
 
 ---
 
-## 🔍 Approach
+##  Approach
 
 ### 1. Data Cleaning
 - Dropped columns with excessive missing values or low correlation with price  
@@ -78,7 +78,7 @@ $$
 
 ---
 
-## ⚠️ Challenges
+##  Challenges
 
 - Incomplete and inconsistent data across years  
 - Capturing geographic pricing trends without overfitting  
@@ -86,7 +86,7 @@ $$
 - Balancing accuracy with interpretability
 
 ---
-## 🙌 Credits
+##  Credits
 
 - Special thanks to my teammates **Daniel Mizrahi** and **Dvir Rehavi**  
 - Together, we chose to treat this academic project as an opportunity to go beyond course expectations.  
